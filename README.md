@@ -63,3 +63,10 @@ Build and run the app to start tracking your water intake.
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Benyormin/DrinkWaterReminder/blob/main/LICENSE) file for details.
 
 Remember, staying hydrated is essential for your health. Cheers to a well-hydrated you! 🥤💧
+
+## Images 
+ ![photo_2024-04-11_00-00-11.jpg](https://github.com/Benyormin/DrinkWaterReminder/blob/main/Images/photo_2024-04-11_00-00-11.jpg)
+
+ ![image2](https://github.com/Benyormin/DrinkWaterReminder/blob/main/Images/photo_2024-04-11_00-00-29.jpg)
+ ![Image3](https://github.com/Benyormin/DrinkWaterReminder/blob/main/Images/photo_2024-04-11_00-00-30.jpg)
+ ![Image4](https://github.com/Benyormin/DrinkWaterReminder/blob/main/Images/photo_2024-04-11_00-00-31.jpg)
